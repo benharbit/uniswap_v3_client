@@ -1,6 +1,6 @@
 This library instructs how to use the uniswap python library.
 [Uniswap Python library](https://github.com/uniswap-python/uniswap-python)
-I am using a fork I make of that library that makes it easy to use.
+I am using a fork I made of that library that makes it easy to use.
 [My Uniswap Python library fork](https://github.com/risingsun007/uniswap-python)
 
 <H2> Instructions </H2>
